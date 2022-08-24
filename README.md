@@ -54,7 +54,7 @@
 <details>
 <summary>고객 피드백 내용</summary>
 - 만족도</br>
-![image](https://user-images.githubusercontent.com/103913683/186093272-51bf6a77-ca8f-41d6-ac20-f7ce4a330b36.png)
+<img width="806" alt="스크린샷 2022-08-14 오후 1 05 59" src="[https://user-images.githubusercontent.com/103922744/184522231-e58c8e30-68b9-4fc4-986e-88fce82e9950.png](https://user-images.githubusercontent.com/103913683/186093272-51bf6a77-ca8f-41d6-ac20-f7ce4a330b36.png)">
 </br>- 불편했던 점</br>
 ![image](https://user-images.githubusercontent.com/103913683/186093554-0b2c01b1-7d65-4b2a-b247-17d16b56d821.png)</br>
 - 좋았던 점</br>
