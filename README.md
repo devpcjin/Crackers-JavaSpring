@@ -52,15 +52,15 @@
 
 ## 7. 고객 피드백
 <details>
-<summary>피드백 내용</summary>
-- 만족도
+<summary>고객 피드백 내용</summary>
+- 만족도</br>
 ![image](https://user-images.githubusercontent.com/103913683/186093272-51bf6a77-ca8f-41d6-ac20-f7ce4a330b36.png)
-- 불편했던 점
-![image](https://user-images.githubusercontent.com/103913683/186093554-0b2c01b1-7d65-4b2a-b247-17d16b56d821.png)
-- 좋았던 점
-![image](https://user-images.githubusercontent.com/103913683/186093705-619ea50f-9175-4a29-b059-de22e073001a.png)
-- 상세 피드백 요약
-[상세 피드백 요약 링크](https://goofy-draw-ced.notion.site/cfdfc381933a46ff91ceed1cafbfd1ab)
+</br>- 불편했던 점</br>
+![image](https://user-images.githubusercontent.com/103913683/186093554-0b2c01b1-7d65-4b2a-b247-17d16b56d821.png)</br>
+- 좋았던 점</br>
+![image](https://user-images.githubusercontent.com/103913683/186093705-619ea50f-9175-4a29-b059-de22e073001a.png)</br>
+- 상세 피드백 요약</br>
+[상세 피드백 요약 링크](https://goofy-draw-ced.notion.site/cfdfc381933a46ff91ceed1cafbfd1ab)</br>
 </details>
 
 ## 8. 트러블 슈팅
