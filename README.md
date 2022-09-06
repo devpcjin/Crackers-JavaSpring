@@ -53,13 +53,13 @@
 ## 7. 고객 피드백
 <details>
 <summary>고객 피드백 내용</summary>
-- 만족도</br>
+<li>만족도</li></br>
 <img width="806" alt="스크린샷 2022-08-14 오후 1 05 59" src="https://user-images.githubusercontent.com/103913683/186093272-51bf6a77-ca8f-41d6-ac20-f7ce4a330b36.png"></br>
-- 불편했던 점</br>
+<li>불편했던 점</li></br>
 <img width="806" alt="스크린샷 2022-08-14 오후 1 05 59" src="https://user-images.githubusercontent.com/103913683/186093554-0b2c01b1-7d65-4b2a-b247-17d16b56d821.png"></br>
-- 좋았던 점</br>
+<li>좋았던 점</li></br>
 <img width="806" alt="스크린샷 2022-08-14 오후 1 05 59" src="https://user-images.githubusercontent.com/103913683/186093705-619ea50f-9175-4a29-b059-de22e073001a.png"></br>
-- 상세 피드백 요약</br>
+<li>상세 피드백 요약</li></br>
 <a href="https://goofy-draw-ced.notion.site/cfdfc381933a46ff91ceed1cafbfd1ab">상세 피드백 요약으로 이동</a>
 </details>
 
